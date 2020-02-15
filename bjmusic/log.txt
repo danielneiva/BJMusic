@@ -1,0 +1,16 @@
+2020-02-15 00:35:02.857241  -  'Music' object has no attribute 'albumN'
+
+2020-02-15 00:36:13.732915  -  'Music' object has no attribute 'albumN'
+
+2020-02-15 10:30:42.019343  -  'Album' object has no attribute 'id'
+
+2020-02-15 10:31:52.862440  -  'Album' object has no attribute 'id'
+
+2020-02-15 10:32:03.310339  -  'Album' object has no attribute 'id'
+
+2020-02-15 10:35:43.180753  -  'Music' object has no attribute 'id'
+
+2020-02-15 10:42:00.053180  -  'Album' object has no attribute 'id'
+
+2020-02-15 10:42:00.054004  -  'Music' object has no attribute 'id'
+

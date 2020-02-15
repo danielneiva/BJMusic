@@ -1,0 +1,360 @@
+1
+1
+Kill'em All
+Metallica
+Hit the Lights
+04:16
+n
+
+2
+1
+Kill'em All
+Metallica
+The Four Horsemen
+07:13
+s
+
+3
+1
+Kill'em All
+Metallica
+Motorbreath
+03:08
+n
+
+4
+1
+Kill'em All
+Metallica
+Jump in the Fire
+04:41
+n
+
+5
+1
+Kill'em All
+Metallica
+Anesthesia - Pulling Teeth
+04:15
+n
+
+6
+1
+Kill'em All
+Metallica
+Whiplash
+04:10
+n
+
+7
+1
+Kill'em All
+Metallica
+Phantom Lord
+05:02
+n
+
+8
+1
+Kill'em All
+Metallica
+No Remorse
+06:26
+n
+
+9
+1
+Kill'em All
+Metallica
+Seek & Destroy
+06:55
+s
+
+10
+1
+Kill'em All
+Metallica
+Metal Militia
+05:09
+n
+
+11
+2
+Ride the Lightning
+Metallica
+Fight Fire with Fire
+04:45
+n
+
+12
+2
+Ride the Lightning
+Metallica
+Ride the Lightning
+06:36
+s
+
+13
+2
+Ride the Lightning
+Metallica
+For Whom the Bell Tolls
+05:09
+s
+
+14
+2
+Ride the Lightning
+Metallica
+Fade to Black
+06:57
+s
+
+15
+2
+Ride the Lightning
+Metallica
+Trapped Under Ice
+04:04
+n
+
+16
+2
+Ride the Lightning
+Metallica
+Escape
+04:23
+n
+
+17
+2
+Ride the Lightning
+Metallica
+Creeping Death
+06:36
+s
+
+18
+2
+Ride the Lightning
+Metallica
+The Call of Ktulu
+08:53
+n
+
+19
+3
+Música Para Beber e Brigar
+Matanza
+Pé na Porta, Soco na Cara
+01:51
+n
+
+20
+3
+Música Para Beber e Brigar
+Matanza
+O Último Bar
+04:28
+s
+
+21
+3
+Música Para Beber e Brigar
+Matanza
+Todo Ódio da Vingança de Jack Buffalo Head
+01:34
+n
+
+22
+3
+Música Para Beber e Brigar
+Matanza
+Maldito Hippie Sujo
+04:14
+n
+
+23
+3
+Música Para Beber e Brigar
+Matanza
+Bota Com Buraco de Bala
+02:23
+s
+
+24
+3
+Música Para Beber e Brigar
+Matanza
+Taberneira, Traga o Gim
+01:52
+n
+
+25
+3
+Música Para Beber e Brigar
+Matanza
+Interceptor V-6
+02:04
+n
+
+26
+3
+Música Para Beber e Brigar
+Matanza
+Busted
+00:55
+n
+
+27
+3
+Música Para Beber e Brigar
+Matanza
+Bom é Quando Faz Mal
+02:02
+s
+
+28
+3
+Música Para Beber e Brigar
+Matanza
+Pandemonium
+02:06
+s
+
+29
+3
+Música Para Beber e Brigar
+Matanza
+Quando Bebe Desse Jeito
+02:44
+n
+
+30
+3
+Música Para Beber e Brigar
+Matanza
+Matarei
+04:41
+n
+
+31
+3
+Música Para Beber e Brigar
+Matanza
+Bebe, Arrota e Peida
+02:17
+n
+
+32
+4
+Ben
+Michael Jackson
+Ben
+02:44
+s
+
+33
+4
+Ben
+Michael Jackson
+The Greatest Show on Earth
+02:48
+n
+
+34
+4
+Ben
+Michael Jackson
+People Make the World Go Round
+03:15
+n
+
+35
+4
+Ben
+Michael Jackson
+We've Got a Good Thing Going
+02:59
+n
+
+36
+4
+Ben
+Michael Jackson
+Everybody's Somebody's Fool
+02:59
+n
+
+37
+4
+Ben
+Michael Jackson
+My Girl
+03:08
+n
+
+38
+4
+Ben
+Michael Jackson
+What Goes Around Comes Around
+03:33
+n
+
+39
+4
+Ben
+Michael Jackson
+In Our Small Way
+03:39
+n
+
+40
+4
+Ben
+Michael Jackson
+Shoo-Be-Doo-Be-Doo-Da-Day
+03:21
+n
+
+41
+4
+Ben
+Michael Jackson
+You Can Cry on My Shoulder
+02:39
+n
+
+42
+5
+Della Citta
+Babatunde Akinboboye
+Largo (Figaro)
+03:00
+s
+
+43
+5
+Della Citta
+Babatunde Akinboboye
+Nessun Dorma
+03:05
+n
+
+44
+5
+Della Citta
+Babatunde Akinboboye
+Cortigiani (Rigoletto)
+02:46
+n
+
+0
+album_id
+album_name_&
+band_name
+title
+01:01
+s
+
